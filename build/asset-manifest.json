@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Junyong0619/COMP3104/static/css/main.ed5ff8fd.css",
+    "main.js": "/Junyong0619/COMP3104/static/js/main.5d9d84a5.js",
+    "index.html": "/Junyong0619/COMP3104/index.html",
+    "main.ed5ff8fd.css.map": "/Junyong0619/COMP3104/static/css/main.ed5ff8fd.css.map",
+    "main.5d9d84a5.js.map": "/Junyong0619/COMP3104/static/js/main.5d9d84a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed5ff8fd.css",
+    "static/js/main.5d9d84a5.js"
+  ]
+}
